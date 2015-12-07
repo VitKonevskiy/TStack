@@ -1,0 +1,17 @@
+﻿Build started 07.12.2015 23:49:49.
+     1>Project "F:\VS Projects\VS 2013\TStack\Test_Stack\Test_Stack.vcxproj" on node 2 (Rebuild target(s)).
+     1>ClCompile:
+         F:\VS 2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt test_main.cpp test_TStack.cpp
+         test_TStack.cpp
+         test_main.cpp
+     1>f:\vs projects\vs 2013\tstack\stack (m)\tparser.h(166): warning C4101: 'sum' : unreferenced local variable
+         Generating Code...
+       Link:
+         F:\VS 2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\VS Projects\VS 2013\TStack\Debug\Test_Stack.exe" /INCREMENTAL /NOLOGO ../Debug/gtests.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\VS Projects\VS 2013\TStack\Debug\Test_Stack.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\VS Projects\VS 2013\TStack\Debug\Test_Stack.lib" /MACHINE:X86 Debug\test_main.obj
+         Debug\test_TStack.obj
+         Test_Stack.vcxproj -> F:\VS Projects\VS 2013\TStack\Debug\Test_Stack.exe
+     1>Done Building Project "F:\VS Projects\VS 2013\TStack\Test_Stack\Test_Stack.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.20

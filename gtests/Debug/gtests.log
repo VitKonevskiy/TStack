@@ -1,0 +1,16 @@
+﻿Build started 07.12.2015 23:49:47.
+     1>Project "F:\VS Projects\VS 2013\TStack\gtests\gtests.vcxproj" on node 2 (Rebuild target(s)).
+     1>ClCompile:
+         F:\VS 2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\gtests.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         F:\VS 2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\gtests.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "gtest-all.cc"
+         gtest-all.cc
+       Lib:
+         F:\VS 2013\VC\bin\Lib.exe /OUT:"F:\VS Projects\VS 2013\TStack\Debug\gtests.lib" /NOLOGO "Debug\gtest-all.obj"
+         Debug\stdafx.obj
+         gtests.vcxproj -> F:\VS Projects\VS 2013\TStack\Debug\gtests.lib
+     1>Done Building Project "F:\VS Projects\VS 2013\TStack\gtests\gtests.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.93
