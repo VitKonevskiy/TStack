@@ -1,12 +1,17 @@
-f:\vs projects\vs 2013\tstack\gtests\debug\gtests.pch
-f:\vs projects\vs 2013\tstack\gtests\debug\vc120.pdb
-f:\vs projects\vs 2013\tstack\gtests\debug\vc120.idb
-f:\vs projects\vs 2013\tstack\gtests\debug\stdafx.obj
-f:\vs projects\vs 2013\tstack\gtests\debug\gtest-all.obj
-f:\vs projects\vs 2013\tstack\debug\gtests.lib
-f:\vs projects\vs 2013\tstack\gtests\debug\gtests.tlog\cl.command.1.tlog
-f:\vs projects\vs 2013\tstack\gtests\debug\gtests.tlog\cl.read.1.tlog
-f:\vs projects\vs 2013\tstack\gtests\debug\gtests.tlog\cl.write.1.tlog
-f:\vs projects\vs 2013\tstack\gtests\debug\gtests.tlog\lib-link.read.1.tlog
-f:\vs projects\vs 2013\tstack\gtests\debug\gtests.tlog\lib-link.write.1.tlog
-f:\vs projects\vs 2013\tstack\gtests\debug\gtests.tlog\lib.command.1.tlog
+C:\GIT PROJECTS\TSTACK\GTESTS\DEBUG\GTESTS.PCH
+C:\GIT PROJECTS\TSTACK\GTESTS\DEBUG\STDAFX.OBJ
+C:\GIT PROJECTS\TSTACK\GTESTS\DEBUG\VC110.PDB
+C:\GIT PROJECTS\TSTACK\GTESTS\DEBUG\GTEST-ALL.OBJ
+C:\GIT PROJECTS\TSTACK\DEBUG\GTESTS.LIB
+C:\Git Projects\TStack\gtests\Debug\gtest-all.obj
+C:\Git Projects\TStack\gtests\Debug\stdafx.obj
+C:\Git Projects\TStack\gtests\Debug\cl.command.1.tlog
+C:\Git Projects\TStack\gtests\Debug\CL.read.1.tlog
+C:\Git Projects\TStack\gtests\Debug\CL.write.1.tlog
+C:\Git Projects\TStack\gtests\Debug\Lib-link.read.1.tlog
+C:\Git Projects\TStack\gtests\Debug\Lib-link.write.1.tlog
+C:\Git Projects\TStack\gtests\Debug\lib.command.1.tlog
+C:\Git Projects\TStack\gtests\Debug\gtests.pch
+C:\Git Projects\TStack\gtests\Debug\vc110.idb
+C:\Git Projects\TStack\gtests\Debug\vc110.pdb
+C:\Git Projects\TStack\Debug\gtests.lib

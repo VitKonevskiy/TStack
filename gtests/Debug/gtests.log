@@ -1,16 +1,17 @@
-﻿Build started 07.12.2015 23:49:47.
-     1>Project "F:\VS Projects\VS 2013\TStack\gtests\gtests.vcxproj" on node 2 (Rebuild target(s)).
+﻿Build started 12/8/2015 8:37:23 AM.
+     1>Project "C:\Git Projects\TStack\gtests\gtests.vcxproj" on node 2 (Rebuild target(s)).
+       Project file contains ToolsVersion="12.0". This toolset may be unknown or missing, in which case you may be able to resolve this by installing the appropriate version of MSBuild, or the build may have been forced to a particular ToolsVersion for policy reasons. Treating the project as if it had ToolsVersion="4.0". For more information, please see http://go.microsoft.com/fwlink/?LinkId=291333.
      1>ClCompile:
-         F:\VS 2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\gtests.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\gtests.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt /D _VARIADIC_MAX=10 stdafx.cpp
          stdafx.cpp
-         F:\VS 2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\gtests.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "gtest-all.cc"
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\gtests.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt /D _VARIADIC_MAX=10 "gtest-all.cc"
          gtest-all.cc
        Lib:
-         F:\VS 2013\VC\bin\Lib.exe /OUT:"F:\VS Projects\VS 2013\TStack\Debug\gtests.lib" /NOLOGO "Debug\gtest-all.obj"
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\Lib.exe /OUT:"C:\Git Projects\TStack\Debug\gtests.lib" /NOLOGO "Debug\gtest-all.obj"
          Debug\stdafx.obj
-         gtests.vcxproj -> F:\VS Projects\VS 2013\TStack\Debug\gtests.lib
-     1>Done Building Project "F:\VS Projects\VS 2013\TStack\gtests\gtests.vcxproj" (Rebuild target(s)).
+         gtests.vcxproj -> C:\Git Projects\TStack\Debug\gtests.lib
+     1>Done Building Project "C:\Git Projects\TStack\gtests\gtests.vcxproj" (Rebuild target(s)).
 
 Build succeeded.
 
-Time Elapsed 00:00:01.93
+Time Elapsed 00:00:02.92
