@@ -16,9 +16,14 @@ int main()
 	{
 		printf("Input:\n");
 		gets(str);
+		
 		TParser q(str);
-		double result = q.CalcP();
-		printf("result=%lf\n",result);
+		if (q.BracketCheck(str))
+		{
+			double result = q.CalcP();
+			printf("result=%lf\n", result);
+		}
+		else printf("Input Error.\n");
 	}
 	return 0;
 }

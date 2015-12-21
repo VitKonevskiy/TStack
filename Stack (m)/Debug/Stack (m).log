@@ -1,15 +1,14 @@
-﻿Build started 12/8/2015 8:43:43 AM.
-     1>Project "C:\Git Projects\TStack\Stack (m)\Stack (m).vcxproj" on node 2 (Build target(s)).
-       Project file contains ToolsVersion="12.0". This toolset may be unknown or missing, in which case you may be able to resolve this by installing the appropriate version of MSBuild, or the build may have been forced to a particular ToolsVersion for policy reasons. Treating the project as if it had ToolsVersion="4.0". For more information, please see http://go.microsoft.com/fwlink/?LinkId=291333.
+﻿Build started 21.12.2015 21:44:45.
+     1>Project "F:\Git Projects\TStack\Stack (m)\Stack (m).vcxproj" on node 2 (Build target(s)).
      1>ClCompile:
-         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         F:\VS 2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
          main.cpp
-     1>c:\git projects\tstack\stack (m)\tparser.h(167): warning C4101: 'sum' : unreferenced local variable
+     1>f:\git projects\tstack\stack (m)\tparser.h(167): warning C4101: 'sum' : unreferenced local variable
        Link:
-         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Git Projects\TStack\Debug\Stack (m).exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Git Projects\TStack\Debug\Stack (m).pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Git Projects\TStack\Debug\Stack (m).lib" /MACHINE:X86 Debug\main.obj
-         Stack (m).vcxproj -> C:\Git Projects\TStack\Debug\Stack (m).exe
-     1>Done Building Project "C:\Git Projects\TStack\Stack (m)\Stack (m).vcxproj" (Build target(s)).
+         F:\VS 2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\Git Projects\TStack\Debug\Stack (m).exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\Git Projects\TStack\Debug\Stack (m).pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\Git Projects\TStack\Debug\Stack (m).lib" /MACHINE:X86 Debug\main.obj
+         Stack (m).vcxproj -> F:\Git Projects\TStack\Debug\Stack (m).exe
+     1>Done Building Project "F:\Git Projects\TStack\Stack (m)\Stack (m).vcxproj" (Build target(s)).
 
 Build succeeded.
 
-Time Elapsed 00:00:00.87
+Time Elapsed 00:00:01.80
